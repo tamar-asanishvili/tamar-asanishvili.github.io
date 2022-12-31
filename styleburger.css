@@ -1,0 +1,112 @@
+@font-face {
+    font-family: Inter-Regular;
+    src: url(../fonts/Inter-Regular.ttf);}
+
+body {
+
+    background: #F5F5F5;  
+}
+
+.surati1 {
+    width: 647px;
+    height: 323px;
+    padding-left: 415px;
+    padding-top: 20px;
+    padding-right: 378px;
+    margin-bottom: 29px;
+}
+
+.namcxvari{
+        display: flex;
+        width: 398px;
+        margin: 0 auto;
+}
+.surati2 {
+    width: 171px;
+    height: 222px;       
+    margin-bottom: 33px;
+    margin-right: 13px;
+}
+
+.satauri1 {
+font-family: inter-regular;
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+
+color: #000000;
+}
+
+.texti1 {
+    font-family: Inter-Regular;
+    color: black;
+    line-height: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #E9E9E9;
+    width: 392px;
+    height: 0px;
+    left: 514px;
+    top: 627px;
+    margin-bottom: 29px;
+}
+
+.salad {
+    display: flex;
+    width: 392px;
+    margin: 0 auto;
+    
+}
+
+.surati3 {
+    width: 208px;
+    height: 322px;      
+    margin-bottom: 29px;
+    margin-right: 9px;
+}
+
+h1 {
+    font-family: Inter-Regular;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+    margin-top: 29px;
+}
+.our_menu h2 {
+    font-family: Inter-Regular;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+    margin: 0 auto;
+    margin-top: 31px;
+}
+.our_menu p{
+    font-family: Inter-Regular;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    margin-right: 0px;
+    width: 175px;
+}
+
+
+
